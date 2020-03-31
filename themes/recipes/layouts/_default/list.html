@@ -1,7 +1,7 @@
 {{ define "main" }}
   <section class="section">
     <div class="container">
-      {{ $lastUrlElement := index (last 1 (split (delimit (split .URL "/") "," "") ",")) 0 }}
+      {{ $lastUrlElement := index (last 1 (split (delimit (split .Params.url "/") "," "") ",")) 0 }}
       <div class="columns is-centered">
         <div class="column is-half">
           <h3 class="title">{{ humanize $lastUrlElement }}</h3>
