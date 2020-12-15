@@ -4,7 +4,7 @@ description: "Healthy Turkey Chili"
 summary: "Healthy Turkey Chili"
 date: 2020-11-30T01:34:18+00:00
 draft: false
-time: "30m"
+time: "55m"
 tags: ["turkey", "chili"]
 ---
 
