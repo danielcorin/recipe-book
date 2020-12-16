@@ -1,4 +1,3 @@
-
 ---
 title: "Arroz Con Dulce"
 description: "Arroz Con Dulce"
@@ -6,7 +5,7 @@ summary: "Arroz Con Dulce"
 date: 2020-12-14T20:57:00+00:00
 draft: false
 time: "5h"
-tags: ["apple", "pie"]
+tags: ["rice", "pudding"]
 ---
 
 ## Ingredients
