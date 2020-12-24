@@ -6,7 +6,7 @@ summary: "Pumpkin Spice Buttermilk Cake"
 date: 2020-12-23T20:57:00+00:00
 draft: false
 time: "90m"
-tags: ["apple", "pie"]
+tags: ["pumpkin", "cake"]
 ---
 
 ## Ingredients
