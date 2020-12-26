@@ -5,6 +5,7 @@ summary: "Healthy Turkey Chili"
 date: 2020-11-30T01:34:18+00:00
 draft: false
 time: "55m"
+featured_image: "https://www.ambitiouskitchen.com/wp-content/uploads/2015/10/IMG_6075-Edit-e1549919193723-750x750.jpg"
 tags: ["turkey", "chili"]
 ---
 

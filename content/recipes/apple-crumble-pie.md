@@ -1,4 +1,3 @@
-
 ---
 title: "Apple Crumble Pie"
 description: "Apple Crumble Pie"
@@ -6,6 +5,7 @@ summary: "Apple Crumble Pie"
 date: 2020-12-14T20:57:00+00:00
 draft: false
 time: "70m"
+featured_image: "https://static01.nyt.com/images/2018/10/18/dining/27COOKING-APPLE-CRUMB-ICECREAM1/27COOKING-APPLE-CRUMB-ICECREAM1-articleLarge-v2.jpg"
 tags: ["apple", "pie"]
 ---
 

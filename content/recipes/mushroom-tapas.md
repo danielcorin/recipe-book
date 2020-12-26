@@ -5,6 +5,7 @@ summary: "Tapa of Mushrooms in Garlic Sauce"
 date: 2020-03-29T08:11:45-05:00
 draft: false
 time: "20m"
+featured_image: "https://static01.nyt.com/images/2010/12/14/science/13recipehealth/13recipehealth-articleLarge-v3.jpg"
 tags: ["mushrooms"]
 ---
 

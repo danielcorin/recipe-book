@@ -5,6 +5,7 @@ summary: "Arroz Con Dulce"
 date: 2020-12-14T20:57:00+00:00
 draft: false
 time: "5h"
+featured_image: "https://www.thespruceeats.com/thmb/5BJtJdRdPWfSkN-lx5CcSYUVbRk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/puerto-rican-rice-pudding-recipe-2137868_hero-01-3a536611d5ac4aa5a829c3bf8b7c99ba.jpg"
 tags: ["rice", "pudding"]
 ---
 

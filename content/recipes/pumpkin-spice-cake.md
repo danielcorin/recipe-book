@@ -1,4 +1,3 @@
-
 ---
 title: "Pumpkin Spice Buttermilk Cake"
 description: "Pumpkin Spice Buttermilk Cake"
@@ -6,6 +5,7 @@ summary: "Pumpkin Spice Buttermilk Cake"
 date: 2020-12-23T20:57:00+00:00
 draft: false
 time: "90m"
+featured_image: "https://www.cozycakescottage.com/wp-content/uploads/2014/09/DSC_0732-pm.jpg"
 tags: ["pumpkin", "cake"]
 ---
 
